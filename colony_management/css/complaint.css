@@ -1,0 +1,53 @@
+body{
+	background-image: url("../images/noticeback.jpeg");
+
+}
+.com {
+	height:auto;
+}
+.com textarea{
+	margin-top:70px;
+	margin-bottom:10px;
+	margin-left:30px;
+	box-sizing:border-box;
+	border-style: solid;
+	background-color: #737373;
+	border-radius: 8px;
+	border-color:#737373;
+	color:#ffffff;
+	padding:15px;
+	height:200px;
+	}
+.postbtn{
+	text-align: center;
+	height:100px;
+
+}
+.myp{
+	height:auto;
+}
+.myph{
+	height: auto;
+	box-sizing: border-box;
+	border-radius: 8px;
+	background-color: cadetblue;
+	margin:20px;
+}
+.myptxt h3{
+	font: italic bold 70px Georgia, serif;
+	text-align: center;
+		padding:10px;
+}
+.date{
+	text-align: left;
+	font: bold 20px georgia, serif;
+	padding:10px;
+}
+.mypcontent{
+	height:auto;
+	font:italic 15px geogia serif;
+	padding:10px;
+}
+.mypcontent p{
+	text-indent:30%;
+}

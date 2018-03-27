@@ -1,0 +1,16 @@
+.nav.navbar-inverse {
+	background-color:#4d4d4d;
+}
+.nav.navbar-nav  a:link {
+	color:#ffffff;	
+}
+.nav.navbar-nav  a:hover,.nav.navbar-nav a:focus {
+	color:#0073e6  !important;	
+}
+.nav.navbar-nav  a:visited {
+	color:#00cc00  !important;
+}	
+.nav.navbar-nav li a:active {
+	color:#ff3300  !important;
+	background-color:
+}	

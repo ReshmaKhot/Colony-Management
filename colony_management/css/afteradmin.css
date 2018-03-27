@@ -1,0 +1,160 @@
+
+* {
+    box-sizing: border-box;
+    
+} 
+body{
+    background-image: url("../images/afteradmin.jpg");
+}
+.tablehead{
+    margin-top:30px;
+    padding-top:1px;
+     box-sizing: border-box;
+}.members{
+    border-style: solid;
+    border-top-style: solid;
+    border-radius: 6px;
+    border-color:#666666;
+    border-width: 8px;
+    box-sizing: border-box;
+    background-color: #e6e6e6;
+    height:500px;
+     margin:50px;
+}
+.memtxt{
+    margin:90px 30px;;
+     font: italic bold 60px/30px Georgia,serif;
+    text-align: center;
+}
+.add{
+   
+    height:400px;
+    
+     overflow-y: auto;
+  }
+.table{
+    background-color: #ffe6e6;
+    table-layout: auto;
+     
+}
+.table-fixed{
+  height: 50px;
+  overflow-y: auto;
+  width: 100%;
+}
+.table th{
+    background-color: #00ace6
+}
+.subbtn{
+    padding:20px;
+    text-align: center;
+    margin-right: auto;
+   
+    }
+.subbtn a{
+     text-decoration:none; 
+     	font:italic Georgia, serif;
+    color:#ffffff;
+    background-color: 	#006dcc;
+    border-radius: 3px;
+    padding:8px;
+}
+.note1{
+
+width:100%;
+
+}
+.notice{
+    text-align:center;
+    border-style: solid;
+    border-top-style: solid;
+    border-radius: 6px;
+    border-color:#666666;
+    border-width: 8px;
+    box-sizing: border-box;
+   
+    margin:90px 5px; 
+    height:auto;  
+    width:inherit;
+}
+.sub{
+    	font:bold 15px/40px Georgia, serif;
+    text-align: left;
+    margin-left:10px;
+}
+.sublen{
+    width:93%;
+    height:100px;
+}
+.date{
+    text-align:left;
+    float:left;
+    margin-left: 10px;
+    font:bold 15px/40px Georgia, serif;
+}
+.txt{
+    text-align:left;
+    font:bold 15px/40px Georgia, serif;
+    margin-left:10px;
+}
+.txt label{
+    text-align: center;
+}
+.required{
+    text-align:left;
+    height:auto;
+    margin-left: 10px;
+}
+#mymodal{
+    margin:75px 30%;
+    height:auto;
+    width:400px;
+    border-radius: 8px;
+}
+.modal-body{
+        background-color: #ff4d4d;
+        text-align: ;
+}
+.modal-body label{
+
+    width:120px;
+    display: inline-block;
+    text-align:center;
+  
+	
+}
+.modal-header{
+    background-color: #ffb3b3;
+}
+.sub textarea{
+	border-style: solid;
+	border-radius:5px;
+	border-width:2px;
+		border-color:#737373;
+	
+}
+.required textarea{
+	border-style: solid;
+	border-radius:5px;
+	border-width:2px;
+	border-color:#737373;
+	
+}
+.txt textarea{
+	border-style: solid;
+	border-radius:5px;
+	border-width:2px;
+	border-color:#737373;
+
+}
+.to{
+	text-align: left;
+	padding:10px;
+}
+.to input{
+	border-style: solid;
+	border-radius:5px;
+	border-width:2px;
+	border-color:#737373;
+	
+}

@@ -1,0 +1,100 @@
+
+#mycarousel{
+    height:200px;
+	width:100%;
+	margin:30px;
+}
+.carousel .item {
+  height: 400px;
+}
+
+.item img {
+    position: relative;
+    top: 0;
+    left: 0;
+    max-height: 400px;
+}
+.container h2{
+    text-align:center;
+     font: italic bold 50px/40px Georgia, serif;
+ 	color:#ff0000;
+    padding:20px;
+}
+.ctu{
+	 display: -webkit-flex;
+    display: flex;
+    width: 100%;
+    height: 500px;
+    background-color: #262626;
+	margin-top:40px;
+	margin-bottom:0px;
+	padding:10px;
+	
+}
+#map{
+	height:100%;
+	width:50%;
+}
+.ct{
+	height:100%;
+	width:50%;
+	color:white;
+	background-image:url("../images/telephone.jpg");
+}
+.ctt{
+	padding:10px;
+	padding-top:50px;
+	text-align:center;
+}
+.footer{
+	height:50px;
+	width:100%;
+	background-color: #262626;
+	color:white;
+	text-align:center;
+	padding-top:5px;
+}
+
+.abtxt{
+    height:100px;
+    width:100%;
+     font: italic bold 50px/40px Georgia, serif;
+    margin-top:40px;
+    text-align:center;
+    
+}
+.abt {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+    height: 500px;
+    background-color: #a6a6a6;
+	padding-top:30px;
+	padding-bottom:30px;
+	margin-top:10px;
+	margin-bottom:30px;
+}
+
+.abtflex1{ 
+    background-color:  #262626;
+    width: 310px;
+    height: 450px;
+    margin: 10px;
+	border-radius:5px;
+	
+}
+.abtflex1 img{
+	width:300px;
+	height:300px;
+	border-radius:50%;
+}
+.abtflex1 h5{
+    color: #ff0000;
+    font: italic bold 30px/40px Georgia, serif;
+    text-align:center;
+}
+.abtflex1 p{
+    color:#ffffff;
+    font: italic  16px/20px Georgia, serif;
+    text-align:center;
+}

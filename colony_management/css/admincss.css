@@ -1,0 +1,28 @@
+body{
+    background-image: url("../images/admincover.jpg")
+}
+
+.formtxt{
+    padding:150px;
+    text-align:center;
+    font-family: cursive;
+    font-size:20px;
+    font-style: italic;
+    font-size-adjust: auto;
+    color:white;
+}
+.backop{
+    height:550px;
+    width:1000px;
+    border-top-left-radius: 25%;
+    border-bottom-right-radius:25%;
+    background-image: url("../images/loginback.jpg");
+    vertical-align: middle;
+    display: block;
+    margin: 0 auto;
+    
+}
+.op{
+    background:rgba(0,0,0,0.3);
+height:550px;
+}

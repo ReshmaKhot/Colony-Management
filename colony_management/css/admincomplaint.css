@@ -1,0 +1,35 @@
+body{background-image:url("../images/noticeback.jpeg");}
+	
+.complaint{
+		height:auto;
+		box-sizing: border-box;
+	border-style: solid;
+	border-width: thick;
+	border-radius: 8px;
+	border-color: #737373;
+		margin:90px 60px;
+	background-color: #737373;
+	color:#ffffff;
+}
+.note1{
+	text-align: left;
+	font:italic 15px georgia serif;
+	padding:10px;
+}
+.note3 p{
+	text-indent: 30%;
+	padding:10px;
+}.delete{
+	margin: 10px;
+	text-align: right;
+}
+.delete a:link{
+	color:#00cc00;
+}
+.delete a:visited{
+	color:#00cc00;
+}
+.delete a:hover{
+	color:#00cc00;
+}
+	

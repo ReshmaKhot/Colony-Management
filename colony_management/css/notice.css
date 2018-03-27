@@ -1,0 +1,65 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    background-image: url("../images/noticeback.jpeg")
+}
+.notice{
+    box-sizing:border-box;
+      border-style: solid;
+    border-radius: 10px;
+    border-width: 15px;
+    border-color: #737373;
+    margin:50px 60px;
+    height:auto;
+    background-color: #737373;
+    color:#ffffff;
+    
+}
+.note1{
+    font:italic 25px Georgia;
+    text-align: center;
+    padding:20px;
+	color:#00cc00;
+	
+}
+.note2{
+    font:italic 20px Georgia;
+    text-align:left;
+    padding:5px;
+	
+}
+.note3{
+    font:italic 17px Georgia;
+    text-align:left;
+	
+    padding:8px;   
+text-indent: 3cm;
+	
+}
+.delete{
+	margin:10px;
+	text-align:right;
+	font-size: 20px;
+
+	
+	
+	
+}
+.delete a{
+	color:#00cc00;
+	padding:10px;
+	border-radius: 3px;
+}
+.delete a:link{
+	color:#00cc00;
+	padding:10px;
+	border-radius: 3px;
+	
+}
+.delete a:hover{
+	color:#00cc00;
+	padding:10px;
+	border-radius: 3px;
+	
+}

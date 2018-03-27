@@ -1,0 +1,23 @@
+body{
+background-image:url("images/addmemformback.jpg");
+
+
+}
+.addmem{
+    width:auto;
+    height: auto;
+ 	font:italic 15px/40px Georgia, serif;
+    border-style: double;
+    border-radius: 10px;
+    border-width:6px;
+    margin:10px 30%;
+    padding:20px;
+    background-color:#00cca3;
+    display: inline-block;
+}
+.addmem label{
+	width:160px;
+    display: inline-block;
+    text-align: left;
+    color:
+}

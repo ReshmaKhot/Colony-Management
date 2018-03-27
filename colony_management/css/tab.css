@@ -1,0 +1,147 @@
+.cover{
+background-image: url("../images/tabback.jpg");
+	height:670px;
+
+}
+.op{
+	background:rgba(0,0,0,0.6);
+	height:100%;
+}
+
+.nav.nav-tabs{
+	width:85%;
+margin-top:85px;
+margin-left:50px;
+margin-right:50px;
+margin-bottom:25px;
+text-align: center;
+}
+.nav.nav-tabs li{
+	background-color:  #00cc00;
+	width:50%;		
+}
+.nav.nab-tabs li:a{
+background-color:black;
+}
+.nav.nab-tabs li:hover{
+	background-color:black;
+}
+.tab-content{
+	margin-top:0px;
+	margin-bottom:20px;;
+	margin-left:50px;
+	margin-right:50px;
+	clear:none;
+	display:block;
+	width:100%;
+	text-align: center;
+	
+	
+	
+}
+.tabsize{
+	height:auto;
+	box-sizing: border-box;
+
+}
+
+.addmem{
+    width:auto;
+    height: auto;
+ 	font:italic 15px/29px Georgia, serif;
+    border-radius: 10px;
+    border-width:15px;
+    padding:5px;
+    background-image:url("../images/noticeback.jpeg");
+   width:80%;
+	text-align:center;
+	margin-left:20px;
+}
+.addmem label{
+	width:150px;
+	 text-align:left; 
+    display: inline-block;
+	height:auto;
+	padding:0px;
+	margin: 0px;
+}
+.addmem input{
+	height:30px;
+}
+.notice{
+    text-align:center;
+  
+  
+    border-radius: 10px;
+
+    border-width: 15px;
+    box-sizing: border-box;
+    background-image:url("../images/noticeback.jpeg");
+    margin-left: 20px; 
+    margin-right: 45px; 
+	margin-top:10px;
+    height:auto;  
+   width:80%;
+}
+.sub{
+    	font:bold 15px/30px Georgia, serif;
+    text-align: left;
+    margin-left:10px;
+	width:80%;
+	background-color: none;
+}
+.sublen{
+    width:93%;
+    height:100px;
+}
+.date{
+    text-align:left;
+    float:left;
+    margin-left: 10px;
+    font:bold 15px/40px Georgia, serif;
+}
+.txt{
+    text-align:left;
+    font:bold 15px/30px Georgia, serif;
+    margin-left:10px;
+}
+.txt label{
+    text-align: center;
+}
+.required{
+    text-align:left;
+    height:auto;
+    margin-left: 10px;
+}
+.sub textarea{
+	border-style: solid;
+	border-radius:5px;
+	border-width:2px;
+		border-color:#737373;
+	
+}
+.required textarea{
+	border-style: solid;
+	border-radius:5px;
+	border-width:2px;
+	border-color:#737373;
+	
+}
+.txt textarea{
+	border-style: solid;
+	border-radius:5px;
+	border-width:2px;
+	border-color:#737373;
+
+}
+.to{
+	text-align: left;
+	padding:10px;
+}
+.to input{
+	border-style: solid;
+	border-radius:5px;
+	border-width:2px;
+	border-color:#737373;
+	
+}
