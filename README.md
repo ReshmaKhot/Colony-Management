@@ -1,2 +1,0 @@
-# Bar-Graph
-# Colony-Management
